@@ -2,7 +2,7 @@ import { useEffect, useRef } from 'react'
 import './App.css'
 
 const TELLIUS_SRC =
-  'https://qa2.dev.tellius.com/dashboard/668aaf0e-2854-4e17-ab58-4dd3981f2dbc/ed7fb6e5-0113-44a1-90b5-db6d35c33969?utm_source=ae9568e9-63f6-4892-897b-42dca870c010'
+  'https://qa2.dev.tellius.com/dashboard/d8587d3f-a5af-4aaa-b288-63ffb7d609b7/486f78e4-6641-4c6d-ba04-34651f81be47?utm_source=46f00b67-015d-46db-b1fa-5ba8089ca19e'
 
 const ROW_LEVEL_POLICY_MESSAGE = {
   actionType: 'INITIALIZE_ROW_LEVEL_POLICY',
